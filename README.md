@@ -1,4 +1,4 @@
-### Hi, I'm Yuanda (`youyun`)
+### Hi, I'm `youyun`
 
 I build small, local-first tools — the kind that stay on your machine.
 
